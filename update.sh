@@ -3,5 +3,3 @@
 ##mv * ~/
 mv LATAM-Tech-Box/videos-touch-1/* videos
 rm -rf LATAM-Tech-Box
-
-
